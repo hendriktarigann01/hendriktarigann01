@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Hendrik Tarigan</h1>
-<p>A passionate full stack developer from Ahmad Dahlan Institute of Technology and Business</p>
+<p>A Passionate Full Stack Developer From Ahmad Dahlan Institute of Technology and Business</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://res.cloudinary.com/duoqao4ay/image/upload/f_auto,q_auto/epeqkp4fctzrjq53zqkj" style="display: inline-block;"><img src="https://res.cloudinary.com/duoqao4ay/image/upload/f_auto,q_auto/epeqkp4fctzrjq53zqkj" alt="laravel" width="42" height="42" /></a>
